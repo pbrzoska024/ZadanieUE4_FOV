@@ -1,7 +1,9 @@
 # ZadanieUE4_FOV
 Repozytorium przeznaczone na zadanie z unreal engine
-wersja projektu : 4.26.2
-czas : 16.06 - 18.06
+*wersja projektu : 4.26.2
+*czas : 16.06 - 18.06
+
+
 
 Poniżej przestawiono diagram architektury projektu
 
