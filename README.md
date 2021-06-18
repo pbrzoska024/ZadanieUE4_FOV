@@ -6,10 +6,10 @@ Repozytorium przeznaczone na zadanie z unreal engine
 
 WorkFlow na czas obecny:
 
-1.Wykonano linetracing punktów
-2.Utworzono na  podstawie ich wyników procedural mesha
-3.Utworzono kontroler i postac AI włącznie z podstawowymi taskami 
-4.Dostosowano utworzone FOV z komponentem widzenia i jego zasięgiem AI 
+[1.Wykonano linetracing punktów]
+[2.Utworzono na  podstawie ich wyników procedural mesha]
+[3.Utworzono kontroler i postac AI włącznie z podstawowymi taskami]
+[4.Dostosowano utworzone FOV z komponentem widzenia i jego zasięgiem AI]
 
 
 Poniżej przestawiono diagram architektury projektu
