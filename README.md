@@ -35,6 +35,12 @@ Drzewo zachowań:
 * [Jeżli gracz jest w odległości od 10m do 15m, Ai czeka chwilę i następnie przystepuje do chase]
 * [Jeżeli Ai zgubiło gracza lub gracz wszedł w cień, Ai idzie w ostatnie znane miejsce gdzie widziało gracza, a następnie wraca do patrolowania.]
 
-Zmienne do konfiguracji FOV
+* [Zmienne do konfiguracji FOV]
 ![image](https://user-images.githubusercontent.com/53401206/122746491-5945d280-d28a-11eb-96c8-d84f71236523.png)
+
+* [HALF ANGLE - Definiuje jak duży kąt mesha ma zostać wygenerowany, przykładowe wartości (45, 60, 90)]
+* [DELTA ANGLE - Definiuje z jaką prezycją ma być FOV wyświetlany, przykładowe wartości (1, 2, ) im mniejsza tym większa prezcyzja oraz większe zużycie CPU]
+* [HEIGHT TRACE - Definiuje wysokość z której są generowane line tracy dla mesha, przykładowe wartości (165)]
+* [FOV HEIGHT - Definiuje wysokość z której są generowane line tracy dla mesha, przykładowe wartości (165), uwaga na ten moment to jest ADDLocation a nie SETLoctation dlatego lepiej zostawić jak już jest ustawione ]
+* [bDebugLinetreace - Wyświetla linetracy dla fova, uwaga jezeli ai jest w ruchu to bedzie ich calkiem sporo co moze obciazyc cpu]
 
