@@ -14,8 +14,12 @@ WorkFlow na czas obecny:
 * [5.Napisano serwis, taski i dekoratory dla AI]
 * [6.Utworzono punkty które ai będzie patrolować]
 * [7.Utworzono warunki których Ai będzie decydowac kiedy zobaczy gracza]
-* [8.Utworzono strefe cienia dzięki któremu gracz może się chować]
-* 
+
+
+  [8.Stworzono 3 typy Ai]
+*![image](https://user-images.githubusercontent.com/53401206/122790067-3f22e900-d2b8-11eb-835c-aa5d07eea241.png)
+
+*
 
 
 
