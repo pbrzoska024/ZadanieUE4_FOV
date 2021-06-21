@@ -38,7 +38,7 @@ Drzewo zachowań:
 * [Zmienne do konfiguracji FOV]
 ![image](https://user-images.githubusercontent.com/53401206/122746491-5945d280-d28a-11eb-96c8-d84f71236523.png)
 
-AcotrollerAI oraz jego dziecko BP_ControllerAI
+AcharacterAI oraz jego dziecko BP_CharacterAI
 * [HALF ANGLE - Definiuje jak duży kąt mesha ma zostać wygenerowany, przykładowe wartości (45, 60, 90)]
 * [DELTA ANGLE - Definiuje z jaką prezycją ma być FOV wyświetlany, przykładowe wartości (1, 2, ) im mniejsza tym większa prezcyzja oraz większe zużycie CPU]
 * [HEIGHT TRACE - Definiuje wysokość z której są generowane line tracy dla mesha, przykładowe wartości (165)]
