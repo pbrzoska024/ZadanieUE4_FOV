@@ -20,9 +20,10 @@ WorkFlow na czas obecny:
 
 
 Poniżej przestawiono diagram architektury projektu
-
-![ZadanieAiDiagram (1)](https://user-images.githubusercontent.com/53401206/122618482-a4939180-d08e-11eb-9244-2dd78d3bd8f7.png)
+![ZadanieAiDiagram (2)](https://user-images.githubusercontent.com/53401206/122745061-e720be00-d288-11eb-940c-864ce8b38cef.png)
 
 
 Screen przestawiający patrolujące AI
 ![image](https://user-images.githubusercontent.com/53401206/122743664-7927c700-d287-11eb-8bcc-1fc52e3340ca.png)
+![image](https://user-images.githubusercontent.com/53401206/122744690-885b4480-d288-11eb-8f8c-0d9de3770063.png)
+
