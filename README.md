@@ -27,3 +27,12 @@ Screen przestawiający patrolujące AI
 ![image](https://user-images.githubusercontent.com/53401206/122743664-7927c700-d287-11eb-8bcc-1fc52e3340ca.png)
 ![image](https://user-images.githubusercontent.com/53401206/122744690-885b4480-d288-11eb-8f8c-0d9de3770063.png)
 
+Drzewo zachowań:
+![image](https://user-images.githubusercontent.com/53401206/122745465-53032680-d289-11eb-896c-9673d7d64261.png)
+
+Ai patroluje wybrane punkty (ATargetPoints).
+Jeżeli gracz jest w odległości do 5m, Ai od razu przystępuje do chase
+Jeżli gracz jest w odległości od 10m do 15m, Ai czeka chwilę i następnie przystepuje do chase
+Jeżeli Ai zgubiło gracza lub gracz wszedł w cień, Ai idzie w ostatnie znane miejsce gdzie widziało gracza, a następnie wraca do patrolowania.
+
+
