@@ -35,4 +35,6 @@ Drzewo zachowań:
 * [Jeżli gracz jest w odległości od 10m do 15m, Ai czeka chwilę i następnie przystepuje do chase]
 * [Jeżeli Ai zgubiło gracza lub gracz wszedł w cień, Ai idzie w ostatnie znane miejsce gdzie widziało gracza, a następnie wraca do patrolowania.]
 
+Zmienne do konfiguracji FOV
+![image](https://user-images.githubusercontent.com/53401206/122746491-5945d280-d28a-11eb-96c8-d84f71236523.png)
 
